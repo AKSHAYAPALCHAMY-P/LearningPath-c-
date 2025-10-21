@@ -1,12 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CodeChef
+public class Test
 {
-    internal class Double_Rent
+    public static void Main()
     {
+        int nRent = int.Parse(Console.ReadLine());
+
+        int nResult = 2 * nRent;
+
+        Console.WriteLine(nResult);
     }
 }
