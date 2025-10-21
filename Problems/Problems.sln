@@ -1,6 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+ ProjectEuler
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problems", "Problems.csproj", "{5F640ACA-8F7D-4CEF-86D4-D04A918C327F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef", "..\CodeChef\CodeChef.csproj", "{F2947BFC-8A5B-4D33-8E2E-DC2A914001C7}"
+EndProject
+
 ProjectEuler
 VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -8,11 +16,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problems", "Problems.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef", "..\CodeChef\CodeChef.csproj", "{F2947BFC-8A5B-4D33-8E2E-DC2A914001C7}"
 EndProject
-=======
+
 VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problems", "Problems.csproj", "{5F640ACA-8F7D-4CEF-86D4-D04A918C327F}"
 EndProject
+Main
 Main
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +34,16 @@ Global
 		{5F640ACA-8F7D-4CEF-86D4-D04A918C327F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F640ACA-8F7D-4CEF-86D4-D04A918C327F}.Release|Any CPU.Build.0 = Release|Any CPU
  ProjectEuler
+
+ ProjectEuler
+Main
 		{F2947BFC-8A5B-4D33-8E2E-DC2A914001C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F2947BFC-8A5B-4D33-8E2E-DC2A914001C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2947BFC-8A5B-4D33-8E2E-DC2A914001C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2947BFC-8A5B-4D33-8E2E-DC2A914001C7}.Release|Any CPU.Build.0 = Release|Any CPU
+ ProjectEuler
+
+Main
 Main
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
