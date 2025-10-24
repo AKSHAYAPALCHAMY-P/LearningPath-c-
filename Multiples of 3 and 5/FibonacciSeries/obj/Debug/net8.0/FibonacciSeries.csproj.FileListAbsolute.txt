@@ -1,0 +1,5 @@
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.sourcelink.json

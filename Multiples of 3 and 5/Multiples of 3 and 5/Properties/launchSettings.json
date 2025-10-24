@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Multiples of 3 and 5": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

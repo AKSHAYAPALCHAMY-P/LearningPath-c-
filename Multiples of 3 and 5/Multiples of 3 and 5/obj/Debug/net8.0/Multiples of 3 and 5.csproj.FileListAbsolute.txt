@@ -1,0 +1,5 @@
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\net8.0\Multiples of 3 and 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\net8.0\Multiples of 3 and 5.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\net8.0\Multiples of 3 and 5.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\net8.0\Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\net8.0\Multiples of 3 and 5.sourcelink.json

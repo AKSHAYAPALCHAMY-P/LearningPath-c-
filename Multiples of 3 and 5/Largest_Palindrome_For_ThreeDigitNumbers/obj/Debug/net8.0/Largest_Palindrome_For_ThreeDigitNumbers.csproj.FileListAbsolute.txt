@@ -1,0 +1,15 @@
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\bin\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.exe
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\bin\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.deps.json
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\bin\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.runtimeconfig.json
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\bin\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.dll
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\bin\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.sourcelink.json
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.dll
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\refint\Largest_Palindrome_For_ThreeDigitNumbers.dll
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\Largest_Palindrome_For_ThreeDigitNumbers.genruntimeconfig.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\Project Euler\Multiples of 3 and 5\Largest_Palindrome_For_ThreeDigitNumbers\obj\Debug\net8.0\ref\Largest_Palindrome_For_ThreeDigitNumbers.dll
