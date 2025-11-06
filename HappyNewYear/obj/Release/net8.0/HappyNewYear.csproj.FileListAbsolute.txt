@@ -1,0 +1,5 @@
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Release\net8.0\HappyNewYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Release\net8.0\HappyNewYear.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Release\net8.0\HappyNewYear.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Release\net8.0\HappyNewYear.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Release\net8.0\HappyNewYear.sourcelink.json

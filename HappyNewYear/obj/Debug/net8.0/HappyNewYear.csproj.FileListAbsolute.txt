@@ -1,0 +1,15 @@
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.sourcelink.json
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\bin\Debug\net8.0\HappyNewYear.exe
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\bin\Debug\net8.0\HappyNewYear.deps.json
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\bin\Debug\net8.0\HappyNewYear.runtimeconfig.json
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\bin\Debug\net8.0\HappyNewYear.dll
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\bin\Debug\net8.0\HappyNewYear.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.dll
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\refint\HappyNewYear.dll
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\HappyNewYear.genruntimeconfig.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\HappyNewYear\obj\Debug\net8.0\ref\HappyNewYear.dll
