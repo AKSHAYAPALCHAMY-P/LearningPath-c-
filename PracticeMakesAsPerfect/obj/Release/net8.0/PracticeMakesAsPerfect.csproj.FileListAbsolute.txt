@@ -1,0 +1,5 @@
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\PracticeMakesAsPerfect\obj\Release\net8.0\PracticeMakesAsPerfect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\PracticeMakesAsPerfect\obj\Release\net8.0\PracticeMakesAsPerfect.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\PracticeMakesAsPerfect\obj\Release\net8.0\PracticeMakesAsPerfect.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\PracticeMakesAsPerfect\obj\Release\net8.0\PracticeMakesAsPerfect.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Education\C#\LearningPath-c-\CodeChef\PracticeMakesAsPerfect\obj\Release\net8.0\PracticeMakesAsPerfect.sourcelink.json
