@@ -1,0 +1,15 @@
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\bin\Debug\net8.0\ThatIsMyScore.exe
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\bin\Debug\net8.0\ThatIsMyScore.deps.json
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\bin\Debug\net8.0\ThatIsMyScore.runtimeconfig.json
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\bin\Debug\net8.0\ThatIsMyScore.dll
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\bin\Debug\net8.0\ThatIsMyScore.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.sourcelink.json
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.dll
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\refint\ThatIsMyScore.dll
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ThatIsMyScore.genruntimeconfig.cache
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\ThatIsMyScore\obj\Debug\net8.0\ref\ThatIsMyScore.dll
