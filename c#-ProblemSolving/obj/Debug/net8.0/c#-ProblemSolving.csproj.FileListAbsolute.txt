@@ -1,0 +1,15 @@
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\bin\Debug\net8.0\c#-ProblemSolving.exe
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\bin\Debug\net8.0\c#-ProblemSolving.deps.json
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\bin\Debug\net8.0\c#-ProblemSolving.runtimeconfig.json
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\bin\Debug\net8.0\c#-ProblemSolving.dll
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\bin\Debug\net8.0\c#-ProblemSolving.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.AssemblyInfoInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.AssemblyInfo.cs
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.sourcelink.json
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.dll
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\refint\c#-ProblemSolving.dll
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.pdb
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\c#-ProblemSolving.genruntimeconfig.cache
+C:\Users\AkshayaP\OneDrive - M&S\Documents\DotNet And c#\c#-ProblemSolving\obj\Debug\net8.0\ref\c#-ProblemSolving.dll
